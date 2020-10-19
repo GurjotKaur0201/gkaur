@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\NET.12-1-Gurjot-Kaur-N01462430\NET.12-1-Gurjot-Kaur-N01462430\bin\Debug\NET.12-1-Gurjot-Kaur-N01462430.exe
+c:\users\acer\documents\visual studio 2010\Projects\NET.12-1-Gurjot-Kaur-N01462430\NET.12-1-Gurjot-Kaur-N01462430\bin\Debug\NET.12-1-Gurjot-Kaur-N01462430.pdb
+c:\users\acer\documents\visual studio 2010\Projects\NET.12-1-Gurjot-Kaur-N01462430\NET.12-1-Gurjot-Kaur-N01462430\obj\x86\Debug\NET.12-1-Gurjot-Kaur-N01462430.exe
+c:\users\acer\documents\visual studio 2010\Projects\NET.12-1-Gurjot-Kaur-N01462430\NET.12-1-Gurjot-Kaur-N01462430\obj\x86\Debug\NET.12-1-Gurjot-Kaur-N01462430.pdb
